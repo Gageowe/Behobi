@@ -1,0 +1,13 @@
+randomized maps
+randomized dungeon generation
+randomized enemy generation
+randomized weapon/item generation
+randomized spells?
+
+saveable data
+saveable worlds (contain map, dungeon, enemy, weapon, item, spell data)
+saveable games (contain a player, and a world)
+saveable players (can go between worlds?)
+
+HIGHER LEVEL
+randomized attributes (multiple mana/hp/stamina bars? (e.g. mania, sanity, darkness, light, water, fire, etc.)
